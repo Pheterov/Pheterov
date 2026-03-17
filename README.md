@@ -1,48 +1,48 @@
-👋 Hey! IT's Peter 
+# 👋 Hey! IT's Peter 
 
 Junior Data Analyst
 SQL • Python • Excel • Power BI • Tableau
 
-- 🧠 Profile
+# 🧠 Profile
 
 Data analyst focused on SQL-driven analysis and business insights.
 Hands-on experience with real e-commerce data Supersales, Olist.
 
-- ⚙️ Skills
+# ⚙️ Skills
 
-SQL – advanced querying (joins, aggregations, window functions, cte)
+- SQL – advanced querying (joins, aggregations, window functions, cte)
 
-Python (pandas) – learning in progress
+- Python (pandas) – learning in progress
 
-Excel – analysis, validation, visualization
+- Excel – analysis, validation, visualization
 
-Power BI / Tableau – dashboards & visualization
+- Power BI / Tableau – learning in progress
 
-Power Query – data transformation & automation
+- Power Query – data transformation & automation
 
 📊 Experience (Projects)
 
 - E-commerce Analysis – Supersales dataset & Olist dataset
 
-sales & performance analysis
+- sales & performance analysis
 
-customer segmentation
+- customer segmentation
 
-delivery & operational metrics
+- delivery & operational metrics
 
-data cleaning and validation
+- data cleaning and validation
 
-- 🎯 Focus
+# 🎯 Focus
 
-clear, structured SQL
+- clear, structured SQL
 
-reliable data (no duplication, no logic errors)
+- reliable data (no duplication, no logic errors)
 
-analysis aligned with business decisions
+- analysis aligned with business decisions
 
-- 📌 Target
+# 📌 Target
 
-Junior Data Analyst role
+- Junior Data Analyst role
 
 <!---
 Pheterov/Pheterov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
