@@ -6,6 +6,7 @@
 
 ## 🧠 Profile
 I analyze real e-commerce data to uncover what drives revenue, delays operations, and impacts customer value.
+<br>
 **Focused on solving business problems** — not just writing queries. 
 
 ---
