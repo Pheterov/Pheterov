@@ -1,90 +1,48 @@
-👋 Hi, I'm Peter
+👋 Hey! IT's Peter 
 
-Junior Data Analyst | SQL • Python • Excel • Power BI • Tableau | E-commerce Analytics
+Junior Data Analyst
+SQL • Python • Excel • Power BI • Tableau
 
-📊 About Me
+- 🧠 Profile
 
-I'm building my skills in data analytics with a focus on e-commerce data and business-oriented analysis.
+Data analyst focused on SQL-driven analysis and business insights.
+Hands-on experience with real e-commerce data Supersales, Olist.
 
-Currently, I work with a Supersales dataset, where I practice:
+- ⚙️ Skills
 
-understanding business metrics
+SQL – advanced querying (joins, aggregations, window functions, cte)
 
-analyzing customer behavior
+Python (pandas) – learning in progress
 
-working with time-based data
+Excel – analysis, validation, visualization
 
-writing structured SQL queries
+Power BI / Tableau – dashboards & visualization
 
-ensuring data quality
+Power Query – data transformation & automation
 
-My goal is simple:
-➡️ turn raw data into clear, useful insights — not just queries
+📊 Experience (Projects)
 
-🧠 What I’m Learning Now
+- E-commerce Analysis – Supersales dataset & Olist dataset
 
-Advanced SQL (joins, aggregations, window functions)
-
-Data analysis workflow (from raw data to insight)
-
-Business thinking in analytics (not just technical execution)
-
-Building end-to-end projects (SQL → Python → BI tools)
-
-🛠️ Tech Stack
-
-SQL – core tool for data analysis, querying and business insights
-
-Python (pandas) – data processing, cleaning and basic analysis
-
-Excel – quick analysis, validation and data exploration
-
-Power BI / Tableau – data visualization and dashboard creation
-
-Power Query – data cleaning, transformation and workflow automation
-
-📁 Projects
-🔹 Supersales SQL Analysis
-
-Working on a structured set of analytical tasks based on an e-commerce dataset.
-
-Focus areas:
-
-sales performance
-
-delivery efficiency
+sales & performance analysis
 
 customer segmentation
 
-data cleaning & validation
+delivery & operational metrics
 
-(More projects coming soon as I progress)
+data cleaning and validation
 
-🎯 Approach
+- 🎯 Focus
 
-I focus on:
+clear, structured SQL
 
-writing clean, readable SQL
+reliable data (no duplication, no logic errors)
 
-avoiding data duplication & logical errors
+analysis aligned with business decisions
 
-understanding what the data actually means for business
+- 📌 Target
 
-improving step by step instead of rushing complexity
-
-📌 Current Direction
-
-I’m actively developing toward a junior data analyst role, with a strong focus on:
-
-e-commerce analytics
-
-SQL-based analysis
-
-business insight generation
-
-📫 Contact
-
-Feel free to reach out or connect.
+Junior Data Analyst role
 
 <!---
 Pheterov/Pheterov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
