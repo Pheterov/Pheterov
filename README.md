@@ -33,10 +33,10 @@ I analyze real e-commerce data to uncover what drives revenue, delays operations
 
 ---
 
-## 🎯 Approach
-- Write **clean, structured SQL** that scales  
-- Deliver insights with **business impact**, not just queries  
-- Ensure **data reliability**: no duplication, no logical errors  
+## 🎯 How I work
+- Write **clean, scalable SQL** 
+- Focus on impact, not complexity  
+- **Validate data** before drawing conclusions  
 - Build complexity **step-by-step** only when it adds value
 
 ---
@@ -49,8 +49,7 @@ I analyze real e-commerce data to uncover what drives revenue, delays operations
 
 ---
 
-## 📫 Contact
-Open to work — let's turn data into results 🚀
+## 📫 Open to work — let's turn data into results 🚀
 
 > "I don't just analyze data — I look for decisions hidden inside it."
 <!---
