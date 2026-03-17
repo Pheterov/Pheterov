@@ -13,7 +13,7 @@ Hands-on experience with **real e-commerce data**, turning raw numbers into acti
 ## ⚙️ Core Skills
 - **SQL** – advanced querying (joins, aggregations, window functions), performance optimization  
 - **Python (pandas)** – data cleaning, processing, and automation LEARNING IN PROGRESS 
-- **Excel** – analysis, validation, quick insights  
+- **Excel** – pivot tables, data visualization, dynamic arrays, conditional formatting   
 - **Power BI / Tableau** – dashboards & business visualization LEARNING IN PROGRESS
 - **Power Query** – workflow automation and transformation  
 
