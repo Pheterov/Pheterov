@@ -42,7 +42,7 @@ Hands-on experience with **real e-commerce data**, turning raw numbers into acti
 ---
 
 ## 📌 Career Target
-**Junior Data Analyst**  
+**Data Analyst**  
 - E-commerce analytics  
 - SQL-driven analysis  
 - Insight-oriented decision support  
