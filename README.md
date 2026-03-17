@@ -20,7 +20,7 @@ Hands-on experience with real e-commerce data Supersales, Olist.
 
 - Power Query – data transformation & automation
 
-📊 Experience (Projects)
+# 📊 Experience (Projects)
 
 - E-commerce Analysis – Supersales dataset & Olist dataset
 
