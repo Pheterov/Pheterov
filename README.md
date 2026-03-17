@@ -5,8 +5,8 @@
 ---
 
 ## 🧠 Profile
-Data analyst focused on **SQL-driven business insights**.  
-Hands-on experience with **real e-commerce data**, turning raw numbers into actionable recommendations.  
+I analyze real e-commerce data to uncover what drives revenue, delays operations, and impacts customer value.
+**Focused on solving business problems** — not just writing queries. 
 
 ---
 
@@ -25,9 +25,9 @@ Hands-on experience with **real e-commerce data**, turning raw numbers into acti
 | Focus Area | Result / Impact |
 |------------|----------------|
 | **Sales Performance** | Identified top 10% of products generating 60% of revenue |
-| **Customer Segmentation** | Clustered high-value vs low-value customers for targeted marketing insights |
+| **Customer Segmentation** | Identified high-value vs low-value customers to support targeted marketing decisions |
 | **Delivery Efficiency** | Identified 15% of consistently delayed orders → potential logistics bottlenecks |
-| **Data Cleaning & Validation** | Structured pipelines in **SQL** + **Power Query** → ensured reliable reporting |
+| **Data Cleaning & Validation** | Built structured **SQL + Power Query pipelines** → ensured consistent, duplication-free reporting |
 
 *(Projects designed for measurable business impact — all data-driven and reproducible)*  
 
@@ -37,8 +37,8 @@ Hands-on experience with **real e-commerce data**, turning raw numbers into acti
 - Write **clean, structured SQL** that scales  
 - Deliver insights with **business impact**, not just queries  
 - Ensure **data reliability**: no duplication, no logical errors  
-- Build complexity **step-by-step** only when it adds value  
-- Focused on solving real business problems, not just writing queries.
+- Build complexity **step-by-step** only when it adds value
+
 ---
 
 ## 📌 Career Target
