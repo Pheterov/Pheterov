@@ -51,7 +51,7 @@ I analyze real e-commerce data to uncover what drives revenue, delays operations
 
 ## 📫 Open to work — let's turn data into results 🚀
 
-> "I don't just analyze data — I look for decisions hidden inside it."
+> I don't just analyze data — I look for decisions hidden inside it.
 <!---
 Pheterov/Pheterov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
