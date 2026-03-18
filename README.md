@@ -12,7 +12,7 @@ I analyze real e-commerce data to uncover what drives revenue, delays operations
 ---
 
 ## ⚙️ Core Skills
-- **SQL** – advanced querying (`JOIN`, `GROUP BY`, window functions), performance optimization  
+- **SQL** – advanced: multi-level CTEs, window functions, cohort & retention analytics, Pareto KPIs, performance optimization
 - **Python (pandas) LEARNING**: data cleaning, processing, automation 🐍  
 - **Excel** – pivot tables, data visualization, dynamic arrays, conditional formatting  
 - **Power BI / Tableau LEARNING**: dashboards & business visualization 📊  
