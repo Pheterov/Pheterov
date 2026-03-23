@@ -23,7 +23,7 @@ I analyze real e-commerce data to uncover what drives revenue, delays operations
 ## 📊 Key Projects
 
 ### Supersales – E-commerce Analysis
-| Focus Area | Result / Impact |
+| Focus Area | Result |
 |------------|----------------|
 | **Sales Performance** | Identified top 10% of products generating 60% of revenue |
 | **Customer Segmentation** | Identified high-value vs low-value customers to support targeted marketing decisions |
