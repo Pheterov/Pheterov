@@ -7,7 +7,7 @@
 ## 🧠 Profile
 I analyze e-commerce data to uncover what drives revenue, delays operations, and impacts customer value.
 <br>
-**I focus on solving business problems by extracting valueable informations from data.** — not just writing queries. 
+*I focus on solving business problems by turning data into actionable insights**
 
 ---
 
