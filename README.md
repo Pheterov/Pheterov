@@ -35,7 +35,7 @@
 
 ## 🎯 How I work
 
-<a href="https://github.com](https://github.com/Pheterov/MySQL-ecommerce-analytics-portfolio/blob/main/california_revenue_deep_dive/california_revenue_deep_dive.sql" target="_blank">[My deep dive analysis] </a>
+[My deep dive analysis](https://github.com/Pheterov/MySQL-ecommerce-analytics-portfolio/blob/main/california_revenue_deep_dive/california_revenue_deep_dive.sql)
 
 - Write **clean, scalable SQL** 
 - Focus on impact, not complexity  
