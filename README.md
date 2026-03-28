@@ -5,17 +5,16 @@
 ---
 
 ## 🧠 Profile
-I analyze e-commerce data to uncover what drives revenue, delays operations, and impacts customer value.
-<br>
-**I focus on solving business problems by turning data into actionable insights**
+
+**I turn raw data into clear insights that drive better business decisions.**
 
 ---
 
 ## ⚙️ Core Skills
 - **SQL** – advanced: multi-level CTEs, window functions, cohort & retention analytics, Pareto KPIs, performance optimization
-- **Python (pandas) LEARNING**: data cleaning, processing, automation   
+- **Python (pandas) CURRENTLY DEVELOPING**: data cleaning, processing, automation   
 - **Excel** – pivot tables, data visualization, dynamic arrays, conditional formatting  
-- **Power BI / Tableau LEARNING**: dashboards & business visualization  
+- **Power BI / Tableau CURRENTLY DEVELOPING**: dashboards & business visualization  
 - **Power Query** – workflow automation and transformation
 
 ---
