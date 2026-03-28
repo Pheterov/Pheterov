@@ -1,5 +1,5 @@
 # 👋 Hey! IT's Peter
-**SQL-focused Data Analyst turning e-commerce data into business decisions**  
+**Data Analyst who documents the why, not just the what**  
 **SQL** • **Python** • **Excel** • **Power BI** • **Tableau**  
 
 ---
