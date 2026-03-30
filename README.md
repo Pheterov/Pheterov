@@ -6,7 +6,7 @@
 
 ## 🧠 Profile
 
-**I turn raw data into clear insights that drive better business decisions.**
+**I turn raw data into clear insights that drive informed and profitable business decisions.**
 
 ---
 
